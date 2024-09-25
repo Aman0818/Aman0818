@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
-<p>I'm a passionate web developer and backend enthusiast currently studying at NIT-A, where I'm honing my skills in full-stack development. My expertise lies in creating dynamic, responsive, and user-friendly web applications using a diverse set of technologies, including Python, Django, Flask, Node.js, and more.</p>
+<p>I'm a passionate web developer and backend enthusiast currently studying at NIT-A (National Institute Of Technology Agartala), where I'm honing my skills in full-stack development. My expertise lies in creating dynamic, responsive, and user-friendly web applications using a diverse set of technologies, including Python, Django, Flask, Node.js, and more.</p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0818&label=Profile%20views&color=0e75b6&style=flat" alt="aman0818" /> </p>
 
